@@ -21,8 +21,7 @@ Their revenue management team had hired a 3rd party service provider to provide 
 
 
 ## Data Model
-
-[Data Modelling](https://github.com/rachita-2004/hospitality-analysis-/assets/156538886/aca97bb5-f611-4575-be70-59fc2edb7777)
+(https://github.com/rachita-2004/hospitality-analysis-/assets/156538886/aca97bb5-f611-4575-be70-59fc2edb7777)
 
 
 ## Some Important insights from the Dashboard
