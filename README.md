@@ -1,8 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
-
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
-
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzAxNzBlNGEtZTkwYS00OWI0LWE5ZWUtMzcwZTgzMGMxMDE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem statement
 
@@ -13,9 +11,8 @@ Their revenue management team had hired a 3rd party service provider to provide 
 
 
 ## Provided Mock-up Dashboard
-<p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
-</p>
+![mock up dashboard_atliq grands](https://github.com/rachita-2004/hospitality-analysis-/assets/156538886/3165c304-5790-42ce-9d13-5f84007ee146)
+
 
 
 ## Data Model
@@ -33,4 +30,27 @@ Their revenue management team had hired a 3rd party service provider to provide 
 - AtliQ lost around 298 Million in cancellation 
 - Elite-type rooms have the most bookings and as well higher cancellation rate
 
+## Created the following KPIs using DAX -
+
+Total Bookings
+Total Revenue
+Average Rating
+Total Capacity
+Total Successful bookings
+Occupancy %
+Total Cancelled Bookings
+Cancellation Rate
+Cancelled Booking Rate
+Revenue Loss
+Total Stay
+Revenue Per Available Room 
+Average Daily Rate 
+
+## Things I learned over here:
+
+Learned about telling data-driven stories with this beautiful dashboard.
+Understanding the business requirements based on the data.
+Understanding the use of charts and developing DAX measured,
+Developing beautiful UI
+Giving smart narration to the dashboard.
 
