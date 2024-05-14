@@ -1,6 +1,7 @@
 # AtliQ Hospitality Analysis - PowerBI
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzAxNzBlNGEtZTkwYS00OWI0LWE5ZWUtMzcwZTgzMGMxMDE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link to [LinkedIn ](https://www.linkedin.com/posts/rachitajain2004_dataanalysis-hospitalityinsights-atliqhotels-activity-7192800510763024385-NTtK?utm_source=share&utm_medium=member_desktop)
 
 ## Problem statement
 
